@@ -21,8 +21,6 @@ The following tasks has been made
 
 *Linear regression model between mouse weight and average tumor volume for the Capomulin treatment plotted on top of the scatter plot
 
-# Pymaceuticals Inc.
----
 
 ### Analysis
 
